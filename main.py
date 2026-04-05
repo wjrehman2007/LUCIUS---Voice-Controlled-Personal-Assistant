@@ -2,7 +2,7 @@
 LUCIUS - Voice-Controlled Personal Assistant for Windows
 Main entry point - Orchestrates voice listening, command processing, and execution
 
-Author: AI Software Engineer
+Author: Wajid Ur Rehman ( Software Engineer )
 Version: 1.0.0
 """
 
