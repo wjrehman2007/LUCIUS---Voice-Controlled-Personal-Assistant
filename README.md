@@ -277,7 +277,7 @@ LUCIUS is provided as-is for personal and educational use.
 
 ## 👨‍💻 Author
 
-Built by Senior AI Software Engineer
+Built by Wajid Ur Rehman ( Software Engineer )
 Version: 1.0.0
 Last Updated: 2024
 
